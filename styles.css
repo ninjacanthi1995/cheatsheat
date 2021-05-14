@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #CEC5DD;
+    color: #2B2537;
+}
+
+table, th {
+    border: 1px solid black;
+    text-align: left;
+    font-weight: lighter;
+}
+
+table {
+    width: 100%;
+}
+
+thead th {
+    text-align: center;
+    background-color: #A299B0;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: #50495D;
+}
+
+section {
+    width: 40%;
+}
